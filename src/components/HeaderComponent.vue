@@ -12,7 +12,7 @@
                     </div>
                 </v-col>
                 <v-col class="text-center">
-                    <v-btn to="/">DevOps shop authomation</v-btn>
+                    <v-btn to="/">DevOps shop authomationF</v-btn>
                 </v-col>
                 <v-col class="d-flex justify-end">
                     <v-btn :to="`/product/list`">상품목록</v-btn>
